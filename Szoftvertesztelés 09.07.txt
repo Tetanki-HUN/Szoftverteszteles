@@ -1,0 +1,47 @@
+Szoftverek: Programok és a hozzá tartozó dokumentumok és konfigurációs adatok alkotják
+
+
+Általános termékek: Egyedülálló rendszerek, egy fejlesztő készíti és adja el a piacon bármely vevőnek, aki azt képes megvásárolni
+
+
+
+
+Szoftverspecifikáció: szoftver funkcióit illetva annak megszorítását definiálni kell
+
+Szoftvertervezés és implementáció: specifikációnak megfelelő szoftvert készítjük el
+
+Szoftvervalidáció: ellenőrzési fázis, szoftvert validálni kell
+
+Szoftverevulúció: szoftvert úgy kell kialakítani, hogy megfeleljen a megrendelő kívánsági szerint történő változásoknak
+
+
+
+MI VALÓJÁBAN A TESZTELÉS?
+
+Tesztelünk valamit azt vizsgáljuk hogy rendben van-e
+Nincs hiba nélküli szoftver!!!
+
+Az elkövetett hibák kihatnak a tesztelésre
+
+
+TESZTELÉSI ALAPELVEK
+
+
+
+Szó szerint kell mind a 7
+
+
+
+SZOFTVERRENDSZEREK
+Életünk részei 
+
+Sok negatív tapasztalat
+
+
+A TESZTELÉS FÜGG A KÖRÜLMÉNYEKTŐL
+
+
+PROGRAMHIBÁK OKAI:
+
+
+
